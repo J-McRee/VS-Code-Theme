@@ -1,8 +1,12 @@
 {
-  "name": "shadowthemes",
-  "displayName": "Shadows Dark",
-  "description": "Shadows dark theme for VS Code",
+  "name": "pulsebyte",
+  "publisher": "pulsebyte",
+  "displayName": "PulseByte Themes",
+  "description": "PulseByte Studios themes theme for VS Code",
   "version": "1.0.0",
+  "license": "GPL-3.0",
+  "author": "PulseByte Studios",
+  "repository": "https://github.com/J-McRee/VS-Code-Theme.git",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -12,14 +16,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Shadow Dark",
+        "label": "PulseByte Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/shadow-dark-color-theme.json"
+        "path": "./themes/pulsebyte dark.json"
       },
       {
-        "label": "Shadow Green",
+        "label": "PulseByte Green",
         "uiTheme": "vs-dark",
-        "path": "./themes/shadow-green-color-theme.json"
+        "path": "./themes/pulsebyte green.json"
       }
     ]
   }
