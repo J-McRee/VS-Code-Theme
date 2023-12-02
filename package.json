@@ -21,11 +21,6 @@
         "path": "./themes/pulsebyte dark.json"
       },
       {
-        "label": "PulseByte Green",
-        "uiTheme": "vs-dark",
-        "path": "./themes/pulsebyte green.json"
-      },
-      {
         "label": "PulseByte Black/Green",
         "uiTheme": "vs-dark",
         "path": "./themes/pulsebyte black:green.json"
@@ -34,11 +29,6 @@
         "label": "PulseByte Black/Purple",
         "uiTheme": "vs-dark",
         "path": "./themes/pulsebyte black:purple.json"
-      },
-      {
-        "label": "PulseByte Black/Blue",
-        "uiTheme": "vs-dark",
-        "path": "./themes/pulsebyte black:blue.json"
       }
     ]
   },
