@@ -3,7 +3,7 @@
   "publisher": "pulsebyte",
   "displayName": "PulseByte Themes",
   "description": "PulseByte Studios themes theme for VS Code",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "license": "GPL-3.0",
   "author": "PulseByte Studios",
   "repository": "https://github.com/J-McRee/VS-Code-Theme.git",
@@ -26,9 +26,19 @@
         "path": "./themes/pulsebyte green.json"
       },
       {
-        "label": "PulseByte Black",
+        "label": "PulseByte Black/Green",
         "uiTheme": "vs-dark",
-        "path": "./themes/pulsebyte black.json"
+        "path": "./themes/pulsebyte black:green.json"
+      },
+      {
+        "label": "PulseByte Black/Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pulsebyte black:purple.json"
+      },
+      {
+        "label": "PulseByte Black/Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pulsebyte black:blue.json"
       }
     ]
   },
