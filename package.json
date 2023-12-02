@@ -26,5 +26,6 @@
         "path": "./themes/pulsebyte green.json"
       }
     ]
-  }
+  },
+  "icon": "images/icon.png"
 }
