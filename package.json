@@ -24,6 +24,11 @@
         "label": "PulseByte Green",
         "uiTheme": "vs-dark",
         "path": "./themes/pulsebyte green.json"
+      },
+      {
+        "label": "PulseByte Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pulsebyte black.json"
       }
     ]
   },
