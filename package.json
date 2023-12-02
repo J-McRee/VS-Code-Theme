@@ -1,0 +1,26 @@
+{
+  "name": "shadowthemes",
+  "displayName": "Shadows Dark",
+  "description": "Shadows dark theme for VS Code",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shadow Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shadow-dark-color-theme.json"
+      },
+      {
+        "label": "Shadow Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/shadow-green-color-theme.json"
+      }
+    ]
+  }
+}
