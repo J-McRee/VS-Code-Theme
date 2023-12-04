@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "dark" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## [1.4.0]
 
 - Initial release
+
+## [1.4.1]
+
+- Adjusted activitybar "inactive" icon colors for Black/Purple theme
+
+## [1.4.2]
+
+- Added change log

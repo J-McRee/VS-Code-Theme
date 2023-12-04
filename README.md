@@ -2,9 +2,10 @@
 <h1> PulseByte Studios Themes </h1>
 </div>
 
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
 <a name="readme-top"></a>
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -12,8 +13,6 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -38,12 +37,13 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 We found our custom settings kept growing and decided enough is enough and build our own theme and wanted to share it.
 
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 Open your extenstion tab and search for "PulseByte"
@@ -59,8 +59,8 @@ Open your extenstion tab and search for "PulseByte"
 <!--    - [ ] Chinese-->
 <!--    - [ ] Spanish-->
 
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -74,36 +74,33 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the GPL License. See `LICENSE.txt` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
-Your Name - [Jameson](https://links.jmcree.dev/) - Jameson@jmcree.dev
+[Jameson](https://links.jmcree.dev/) - Jameson@jmcree.dev
 
 Project Link: [https://github.com/J-McRee/VS-Code-Theme.git](https://github.com/J-McRee/VS-Code-Theme.git)
 
-
-
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+- [Choose an Open Source License](https://choosealicense.com)
+- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+- [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+- [Malven's Grid Cheatsheet](https://grid.malven.co/)
+- [Img Shields](https://shields.io)
+- [GitHub Pages](https://pages.github.com)
+- [Font Awesome](https://fontawesome.com)
+- [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
