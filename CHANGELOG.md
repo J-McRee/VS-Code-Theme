@@ -1,13 +1,13 @@
 # Change Log
 
-## [1.4.0]
+## [1.4.2]
 
-- Initial release
+- Added change log
 
 ## [1.4.1]
 
 - Adjusted activitybar "inactive" icon colors for Black/Purple theme
 
-## [1.4.2]
+## [1.4.0]
 
-- Added change log
+- Initial release
