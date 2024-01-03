@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.4.4]
+
+- Matched syntax highlighting across all themes
+
 ## [1.4.2]
 
 - Added change log
