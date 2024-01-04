@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.4.5]
+
+- Adjusted syntax hightlighting to better work with JavaScript
+
 ## [1.4.4]
 
 - Matched syntax highlighting across all themes
