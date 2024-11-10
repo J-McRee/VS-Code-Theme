@@ -84,7 +84,7 @@ Distributed under the GPL License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-[Jameson](https://links.jmcree.dev/) - Jameson@jmcree.dev
+[Jameson](https://links.jmcree.dev/) - Jameson@pulsebyte.dev
 
 Project Link: [https://github.com/J-McRee/VS-Code-Theme.git](https://github.com/J-McRee/VS-Code-Theme.git)
 
